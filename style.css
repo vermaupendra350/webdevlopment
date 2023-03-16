@@ -1,0 +1,32 @@
+#a1{
+    background-color: yellow;
+}
+#b1:hover{
+    color: red;
+}
+#b1{
+    background-color: green;
+}
+#b1:hover{
+    color: yellow;
+}
+#c1{
+    background-color: rgb(230, 101, 101);
+}
+#c1:hover{
+    color: white;
+}
+#intocolor{
+    font-size: 40px;
+}
+#intocolor:hover{
+    font-size: 50px;color: red;
+
+}
+.hclass{
+    color: equa;
+    font-style: italic;
+}
+
+
+}
