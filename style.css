@@ -8,13 +8,17 @@
     background-color: green;
 }
 #b1:hover{
-    color: yellow;
+        color: yellow;
 }
 #c1{
-    background-color: rgb(230, 101, 101);
+    color: rgb(230, 101, 101);
 }
 #c1:hover{
-    color: white;
+    color: rgb(34, 7, 153);
+    font-size: 18px;
+}
+.abc{ 
+    color: blueviolet;
 }
 #intocolor{
     font-size: 40px;
@@ -26,7 +30,4 @@
 .hclass{
     color: equa;
     font-style: italic;
-}
-
-
 }
